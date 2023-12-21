@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 
 # 💫 About Me:
-Hey there! 👋 I'm Mubeen Naushad, a Computer Science student at SZABIST University diving into the realms of design and development! 💻<br><br>As a freelance Graphic Designer and Web Developer, I'm all about crafting eye-catching designs and seamless web experiences using HTML/CSS/JS. 🚀<br><br>Currently leveling up in Full Stack Development with the MERN stack to bring even more dynamism to my digital creations! 🔥<br><br>Ask me about design, coding, or anything in between!<br><img align="right" alt="Coding" width="400" src="https://s5.gifyu.com/images/Sjprp.gif"><br>Turning glitches into features since I started. :) ✨<br><br>Let's chat and create something amazing together! 🌟
+Hey there! 👋 I'm Mubeen Naushad, a Computer Science student at SZABIST University diving into the realms of design and development! 💻<br><br>As a freelance Graphic Designer and Web Developer, I'm all about crafting eye-catching designs and seamless web experiences using HTML/CSS/JS. 🚀<br><br>Currently leveling up in Full Stack Development with the MERN stack to bring even more dynamism to my digital creations! 🔥<br><img align="right" alt="Coding" width="400" src="https://s5.gifyu.com/images/Sjprp.gif"><br>Ask me about design, coding, or anything in between!<br><br>Turning glitches into features since I started. :) ✨<br><br>Let's chat and create something amazing together! 🌟
 
 
 ## 🌐 Socials:
