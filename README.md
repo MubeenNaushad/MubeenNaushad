@@ -30,7 +30,6 @@ Hey there! 👋 I'm Mubeen Naushad, a Computer Science student at SZABIST Univer
 <img src="https://github-contributor-stats.vercel.app/api?username=MubeenNaushad&limit=5&theme=monokai&combine_all_yearly_contributions=true" />
 -->
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MubeenNaushad&icon=2&color=9)](https://visitcount.itsvg.in)
 </div>
