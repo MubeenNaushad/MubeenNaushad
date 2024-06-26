@@ -22,7 +22,7 @@ Hey there! 👋 I'm Mubeen Naushad, a Computer Science student at SZABIST Univer
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenNaushad&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=MubeenNaushad&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=MubeenNaushad&theme=monokai&no-frame=false&no-bg=false&margin-w=3" />
 
 <!-- ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=MubeenNaushad&limit=5&theme=monokai&combine_all_yearly_contributions=true" />
