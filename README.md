@@ -8,8 +8,10 @@ Hey there! 👋 I'm Mubeen Naushad, a Computer Science student at SZABIST Univer
 <br> <br>
 <div id="detailsSection" align="center">
 <hr style="width: 50%; margin: 20px 0; background-color: #ddd; height: 1px; border: none;">
+    <br ><br > <br ><br >
+    <br ><br > <br ><br >
 <details>
-  <br ><br > <br ><br >
+
   <summary><b>More Details</b></summary>
   
 
