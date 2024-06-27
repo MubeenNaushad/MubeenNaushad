@@ -7,9 +7,7 @@ Hey there! 👋 I'm Mubeen Naushad, a Computer Science student at SZABIST Univer
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mubeennaushad) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MubeenNaushad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mubeenalyy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubeen-naushad) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mubeennaushad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MubeenNaushad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCRqFd0wtmfszhQbMnfSscXA) 
 <br> <be>
 
-<a href="https://your-portfolio-url.com" target="_blank" class="portfolio-button">
-    Click to view my portfolio
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-1769ff?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-url.com)
 
 <br ><br > <br ><br >
 <div id="detailsSection" align="center">
@@ -37,22 +35,3 @@ Hey there! 👋 I'm Mubeen Naushad, a Computer Science student at SZABIST Univer
 </div>
 </details>
 </div>
-
-
-<style>
-        .portfolio-button {
-            background-color: #1769ff;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-family: Arial, sans-serif;
-            display: inline-block;
-            border: none;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        .portfolio-button:hover {
-            background-color: #145bb5;
-        }
-</style>
